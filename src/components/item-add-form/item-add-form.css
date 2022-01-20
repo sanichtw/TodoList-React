@@ -1,0 +1,9 @@
+.item-add-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.item-add-form input {
+    margin-right: 10px;
+}
